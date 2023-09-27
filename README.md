@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amizhthan.Md
 - 👀 I’m interested in... fullstack web/software development.
-- 🌱 I’m currently learning... ui/ux, webrtc, grpc
-- 📫 How to reach me... @ amizhthan.m@dotworld.in
+- 🌱 I’m currently learning... ui/ux, ros
+- 📫 Reach me... @ amizhthan.m@dotworld.in
 
 <!---
 amizhthan-dotworld/amizhthan-dotworld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
