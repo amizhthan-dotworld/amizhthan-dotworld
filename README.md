@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amizhthan.Md
 - 👀 I’m interested in... fullstack web/software development.
-- 🌱 I’m currently learning... ui/ux, ros
+- 🌱 I’m currently learning... ui/ux, ros2, openrmf
 - 📫 Reach me... @ amizhthan.m@dotworld.in
 
 <!---
